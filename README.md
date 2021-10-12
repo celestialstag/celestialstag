@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+<h2>
+	Elias Mawa
+</h2>
+	
+Hey I'm Elias a developer based in . I'm intrested in back-end, front-end and mobile application development.
 
-<!--
-**theluckyegg/theluckyegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+	
+Currently neck deep in TypeScript.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+	
+<strong>
+	Full Stack Software developer @ Alt Vape Inc.
+</strong>
+	
+<br/>
+	
+Calgary, AB
+	
+<a href="https://emawa.io">portfolio</a> - <a href="mailto:elias@emawa.io">email</a>
+</div>
