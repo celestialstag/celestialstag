@@ -10,7 +10,7 @@ Hey I'm Elias a developer based in Calgary, Alberta. I'm intrested in back-end, 
 <br/>
 	
 <strong>
-	Senior Software developer @ Alt Vape Inc.
+	Senior Software developer @ Chesney Management Group LTD.
 </strong>
 	
 <br/>
