@@ -4,7 +4,7 @@
 </h2>
 	
 <samp>
-Hey I'm Elias a developer based in Calgary, Alberta. I'm intrested in back-end, front-end and mobile application development. I'm currently neck deep in TypeScript.
+Hey I'm Elias a developer based in Calgary, Alberta. I'm intrested in back-end, front-end and mobile application development. I'm currently neck deep into TypeScript, and Arduino/RaspberryPi projects.
 
 <br/>
 <br/>
