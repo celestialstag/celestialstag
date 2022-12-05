@@ -9,9 +9,9 @@ Hey I'm Elias a developer based in Calgary, Alberta. I'm intrested in back-end, 
 <br/>
 <br/>
 	
-<strong>
-	Principal Software developer @ Chesney Management Group LTD.
-</strong>
+<!-- <strong> -->
+<!-- 	Principal Software developer @ Chesney Management Group LTD. -->
+<!-- </strong> -->
 	
 <br/>
 	
