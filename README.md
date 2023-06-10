@@ -20,7 +20,7 @@ Hey I'm Elias a developer based in Calgary, Alberta. I'm intrested in back-end, 
 	
 Calgary, AB
 	
-<a href="https://emawa.io">portfolio</a> / <a href="mailto:elias@emawa.io">email</a> / <a href="https://www.linkedin.com/in/emawa/">linkedin</a>
+<a href="https://emawa.io">portfolio</a> / <a href="mailto:elias@emawa.io">email</a> / <a href="https://www.linkedin.com/in/elias-mawa/">linkedin</a>
 
 </samp>
 
